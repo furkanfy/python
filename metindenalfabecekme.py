@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
-
-
-
 a = "python nesne tabanlı bir programlama dilidir"
 
 # herhangi bir metinden alfabe cekme
